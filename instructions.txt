@@ -1,0 +1,15 @@
+Create a news from talking input from html form and display on browser
+
+
+There are 2 Ways by which you can recive input from user
+
+1. HTML Forms (HTML)
+2. Prompt Box (JS)
+
+
+Functions :-
+
+Funtions are resulable block of code
+
+1. Function Defination (One time process)
+2. Function Calling    (Many time process)
