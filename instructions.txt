@@ -12,4 +12,33 @@ Functions :-
 Funtions are resulable block of code
 
 1. Function Defination (One time process)
+			Formal Argument/Parameter
 2. Function Calling    (Many time process)
+			Actual Agrument/Parameter
+
+Syntax
+<element event='some JavaScript'>
+
+<input onclick="anil()"> 
+
+There are 2 types of variable in JS
+1. Global Variable
+2. Local Variable
+
+
+Global Variable 
+	The variable which is defined outside the 	function defination is called global variable
+
+Local Variable
+		The variable which is defined inside the 		function defination is called local variable
+
+Can we access the global variable inside the function body ?
+
+Yes
+
+Can we access the Local variable outside the function body ?
+
+No
+
+
+
